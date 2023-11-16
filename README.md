@@ -47,7 +47,7 @@ In addition to providing essential drivers, this repository also offers a compre
 * **CH341A Test Tool:** A diagnostic tool for testing and troubleshooting CH341A devices.
 ![pasted image 0](https://github.com/SomniferumLocator/CH431A-Drivers-and-Software-for-WINDOWS/assets/150518723/fb548507-1071-4d16-9c03-a59c0dbda5d2)
 
-* **CH341A Demo:** A showcase of CH431A capabilities and potential applications.
+* **CH341A Demo:** A showcase of CH341A capabilities and potential applications.
 
 ![Controller](https://github.com/SomniferumLocator/CH431A-Drivers-and-Software-for-WINDOWS/assets/150518723/3eff5685-193a-4108-a78d-e3e1f25ab5d4)
 
