@@ -1,5 +1,5 @@
 # CH341A Drivers and Software for WINDOWS
-
+## ❗❗ ISSUES NOT OPEN DUE TO ME NOT BEING THE AUTHOR OF THESE PROGRAMS AND DRIVERS. ❗❗
 ![CH341A_24_25_Series_EEPROM_Flash_BIOS_USB_Programmer_with_Software___Driver1_9262a3f3-bf8f-4d27-a2b7-16100990a7fc](https://github.com/SomniferumLocator/CH431A-Drivers-and-Software-for-WINDOWS/assets/150518723/72bf3cd0-03b7-4f8b-b132-e38e1fddb428)
 
 ## Introduction
