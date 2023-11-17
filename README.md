@@ -1,5 +1,5 @@
 # CH341A Drivers and Software for WINDOWS
-## ❗❗ ISSUES NOT OPEN DUE TO ME NOT BEING THE AUTHOR OF THESE PROGRAMS AND DRIVERS. ❗❗
+## ❗❗ YOU MUST HAVE 3.5 .NET FRAMEWORK https://download.microsoft.com/download/7/0/3/703455ee-a747-4cc8-bd3e-98a615c3aedb/dotNetFx35setup.exe ❗❗
 ![CH341A_24_25_Series_EEPROM_Flash_BIOS_USB_Programmer_with_Software___Driver1_9262a3f3-bf8f-4d27-a2b7-16100990a7fc](https://github.com/SomniferumLocator/CH431A-Drivers-and-Software-for-WINDOWS/assets/150518723/72bf3cd0-03b7-4f8b-b132-e38e1fddb428)
 
 ## Introduction
